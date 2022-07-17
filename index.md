@@ -1,4 +1,4 @@
 ## Welcome to the Plato and Friends site!
 
 We are under construction!
-(/platoandfriends.github.io/PES.png)
+![Plato, Eroos and Sitarn](PES.png)
