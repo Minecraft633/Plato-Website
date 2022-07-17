@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Plato and Friends site!
 
 You can use the [editor on GitHub](https://github.com/Minecraft633/platoandfriends.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
